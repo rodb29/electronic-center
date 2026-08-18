@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110" role="img" aria-label="Electronic Center">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00d8ff"/><stop offset="1" stop-color="#2875ff"/></linearGradient></defs>
+  <g transform="translate(8 10)">
+    <circle cx="45" cy="45" r="38" fill="#07111f" stroke="url(#g)" stroke-width="4"/>
+    <path d="M18 48h16l8 8 12-23 8 10h15" fill="none" stroke="#00d8ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="25" y="54" font-family="Arial, sans-serif" font-weight="900" font-size="27" fill="#fff">EC</text>
+  </g>
+  <text x="104" y="48" font-family="Arial, sans-serif" font-weight="900" font-size="29" fill="#fff">ELECTRONIC</text>
+  <text x="105" y="79" font-family="Arial, sans-serif" font-weight="700" font-size="23" letter-spacing="5" fill="#00d8ff">CENTER</text>
+</svg>
